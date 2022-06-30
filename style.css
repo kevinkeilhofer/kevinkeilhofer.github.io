@@ -109,7 +109,7 @@ b {
     max-width: 74rem;
     margin-right: auto;
     margin-left: auto;
-    padding: 0 20rem
+    padding: 0 2rem
 }
 
 @media (max-width: 768px) {
